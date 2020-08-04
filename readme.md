@@ -16,7 +16,7 @@
 
    Clonar o repositório
 
-    $ git clone https://github.com/
+    $ git clone https://github.com/AmauriOliveira/NLW-two-ReactJS-TypeScript
 
     # Instalar o node/yarn
 
