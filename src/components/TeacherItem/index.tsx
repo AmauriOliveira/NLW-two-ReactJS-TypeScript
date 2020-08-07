@@ -9,15 +9,14 @@ function TeacherItem() {
                 <img src="https://avatars2.githubusercontent.com/u/22779227?s=460&u=bd374c5009fd9a146fc8a10fcd63020ca1ea34bb&v=4" alt="Amauri Oliveira" />
                 <div>
                     <strong>Amauri Oliveira</strong>
-                    <span>Memes</span>
+                    <span>Desenvolvedor</span>
 
                 </div>
             </header>
             <p>
-                Ser professor é muito mais que exercer uma profissão,
-                dar aulas, aplicar e corrigir provas.
-                Ser professor é uma profissão que exige muito esforço,
-                preparo;
+                Analysis and Systems Development |
+                NodeJS | Unity | JavaScript | PHP |
+                ReactJS | Fellowship of The Game
             </p>
             <footer>
                 <p>

@@ -8,6 +8,7 @@ import './styles.css';
 
 interface PageHeaderProps {
     title: string;
+    description?: string; // a ? avisa que é opcinal o parametro
 }
 
 const PageHeader: React.FunctionComponent<PageHeaderProps> = (props) => {
@@ -21,6 +22,8 @@ const PageHeader: React.FunctionComponent<PageHeaderProps> = (props) => {
             </div>
             <div className="header-content">
                 <strong>{props.title}</strong>
+                {props.description && <p>{props.description}</p>}
+
                 {props.children}
             </div>
         </header>
