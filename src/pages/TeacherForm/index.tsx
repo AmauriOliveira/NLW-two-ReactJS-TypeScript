@@ -128,14 +128,14 @@ function TeacherForm() {
                             onChange={(event) => { setSubject(event.target.value) }}
                             options={[
                                 { value: 'Artes', label: 'Artes' },
-                                { value: 'Portugues', label: 'Portugues' },
-                                { value: 'Matematica', label: 'Matematica' },
-                                { value: 'Quimica', label: 'Quimica' },
-                                { value: 'Fisica', label: 'Fisica' },
+                                { value: 'Português', label: 'Português' },
+                                { value: 'Matemática', label: 'Matemática' },
+                                { value: 'Química', label: 'Química' },
+                                { value: 'Física', label: 'Física' },
                                 { value: 'Biologia', label: 'Biologia' },
                                 { value: 'Historia', label: 'Historia' },
                                 { value: 'Geografia', label: 'Geografia' },
-                                { value: 'Ingles', label: 'Ingles' },
+                                { value: 'Inglês', label: 'Inglês' },
                                 { value: 'Sociologia', label: 'Sociologia' },
                                 { value: 'Filosofia', label: 'Filosofia' },
                             ]}
