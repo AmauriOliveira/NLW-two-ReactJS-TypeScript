@@ -27,7 +27,7 @@
 }
 
 #page-teacher-form main fieldset legend {
-    font: 700 2.4rem Archivo;
+    font: 700 2.4rem Archivo, Sans-serif;
     color: var(--text-title);
     margin-bottom: 2.4rem;
     display: flex;
@@ -42,7 +42,7 @@
     background: none;
     border: 0;
     color: var(--color-primary);
-    font: 700 1.6rem Archivo;
+    font: 700 1.6rem Archivo, Sans-serif;
     cursor: pointer;
     transition: color 0.2s;
 }
@@ -88,7 +88,7 @@
     border: 0;
     border-radius: 0.8rem;
     cursor: pointer;
-    font: 700 1.6rem Archivo;
+    font: 700 1.6rem Archivo, Sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;

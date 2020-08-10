@@ -29,13 +29,12 @@
 
 .page-header .header-content {
     width: 90%;
-    margin: 0 auto;
     position: relative;
     margin: 3.2rem auto;
 }
 
 .page-header .header-content strong {
-    font: 700 3.6rem Archivo;
+    font: 700 3.6rem Archivo, Sans-serif;
     line-height: 4.2rem;
     color: var(--color-title-in-primary);
 }
