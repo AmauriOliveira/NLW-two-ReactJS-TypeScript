@@ -44,7 +44,7 @@ function TeacherForm() {
             ]
         );
 
-    };
+    }
 
     function handleCreateClass(event: FormEvent) {
         event.preventDefault();
@@ -66,7 +66,7 @@ function TeacherForm() {
             alert('Erro no cadastro!!!');
         });
 
-    };
+    }
 
     function setSheduleItemVelue(position: number, field: string, value: string) {
         const updateSheduleItems = scheduleItems.map((scheduleItem, index) => {

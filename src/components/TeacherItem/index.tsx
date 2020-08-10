@@ -16,7 +16,7 @@ export interface teacherInterface {
 }
 interface TeacherItemProps {
     teacher: teacherInterface;
-};
+}
 
 const TeacherItem: React.FunctionComponent<TeacherItemProps> = ({ teacher }) => {
     const { id, subject, cost, name, avatar, whatsapp, bio, } = teacher;
